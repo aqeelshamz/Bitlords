@@ -1,0 +1,237 @@
+[
+	{
+		"studentId": "123456789",
+		"firstName": "Alice",
+		"lastName": "Johnson",
+		"age": 20,
+		"address": {
+			"street": "123 Main Street",
+			"city": "Anytown",
+			"state": "CA",
+			"country": "USA",
+			"zipCode": "12345"
+		},
+		"attendance": [
+			{
+				"subjectCode": "MATH101",
+				"date": "2023-10-10",
+				"present": true
+			},
+			{
+				"subjectCode": "PHYSICS201",
+				"date": "2023-10-12",
+				"present": false
+			}
+		],
+		"marks": [
+			{
+				"semester": 1,
+				"subjectCode": "MATH101",
+				"marksObtained": 85
+			},
+			{
+				"semester": 1,
+				"subjectCode": "PHYSICS201",
+				"marksObtained": 78
+			},
+			{
+				"semester": 2,
+				"subjectCode": "MATH201",
+				"marksObtained": 92
+			}
+		]
+	},
+	{
+		"studentId": "987654321",
+		"firstName": "Bob",
+		"lastName": "Smith",
+		"age": 22,
+		"address": {
+			"street": "456 Oak Street",
+			"city": "Othertown",
+			"state": "NY",
+			"country": "USA",
+			"zipCode": "54321"
+		},
+		"attendance": [
+			{
+				"subjectCode": "CHEM101",
+				"date": "2023-09-25",
+				"present": true
+			},
+			{
+				"subjectCode": "BIOLOGY101",
+				"date": "2023-09-27",
+				"present": true
+			}
+		],
+		"marks": [
+			{
+				"semester": 1,
+				"subjectCode": "CHEM101",
+				"marksObtained": 90
+			},
+			{
+				"semester": 1,
+				"subjectCode": "BIOLOGY101",
+				"marksObtained": 88
+			},
+			{
+				"semester": 2,
+				"subjectCode": "CHEM201",
+				"marksObtained": 85
+			}
+		]
+	},
+	{
+		"studentId": "123456789",
+		"firstName": "Alice",
+		"lastName": "Johnson",
+		"age": 20,
+		"address": {
+			"street": "123 Main Street",
+			"city": "Anytown",
+			"state": "CA",
+			"country": "USA",
+			"zipCode": "12345"
+		},
+		"attendance": [
+			{
+				"subjectCode": "MATH101",
+				"date": "2023-10-10",
+				"present": true
+			},
+			{
+				"subjectCode": "PHYSICS201",
+				"date": "2023-10-12",
+				"present": false
+			},
+			{
+				"subjectCode": "ENGLISH101",
+				"date": "2023-10-14",
+				"present": true
+			}
+		],
+		"marks": [
+			{
+				"semester": 1,
+				"subjectCode": "MATH101",
+				"marksObtained": 85
+			},
+			{
+				"semester": 1,
+				"subjectCode": "PHYSICS201",
+				"marksObtained": 78
+			},
+			{
+				"semester": 2,
+				"subjectCode": "MATH201",
+				"marksObtained": 92
+			},
+			{
+				"semester": 2,
+				"subjectCode": "ENGLISH202",
+				"marksObtained": 88
+			}
+		]
+	},
+	{
+		"studentId": "987654321",
+		"firstName": "Bob",
+		"lastName": "Smith",
+		"age": 22,
+		"address": {
+			"street": "456 Oak Street",
+			"city": "Othertown",
+			"state": "NY",
+			"country": "USA",
+			"zipCode": "54321"
+		},
+		"attendance": [
+			{
+				"subjectCode": "CHEM101",
+				"date": "2023-09-25",
+				"present": true
+			},
+			{
+				"subjectCode": "BIOLOGY101",
+				"date": "2023-09-27",
+				"present": true
+			},
+			{
+				"subjectCode": "HISTORY101",
+				"date": "2023-09-30",
+				"present": false
+			}
+		],
+		"marks": [
+			{
+				"semester": 1,
+				"subjectCode": "CHEM101",
+				"marksObtained": 90
+			},
+			{
+				"semester": 1,
+				"subjectCode": "BIOLOGY101",
+				"marksObtained": 88
+			},
+			{
+				"semester": 2,
+				"subjectCode": "CHEM201",
+				"marksObtained": 85
+			},
+			{
+				"semester": 2,
+				"subjectCode": "HISTORY202",
+				"marksObtained": 75
+			}
+		]
+	},
+	{
+		"studentId": "1122334455",
+		"firstName": "Emma",
+		"lastName": "Davis",
+		"age": 21,
+		"address": {
+			"street": "789 Elm Street",
+			"city": "Sometown",
+			"state": "TX",
+			"country": "USA",
+			"zipCode": "67890"
+		},
+		"attendance": [
+			{
+				"subjectCode": "PHYSICS201",
+				"date": "2023-10-12",
+				"present": true
+			},
+			{
+				"subjectCode": "ENGLISH101",
+				"date": "2023-10-14",
+				"present": false
+			},
+			{
+				"subjectCode": "HISTORY101",
+				"date": "2023-10-15",
+				"present": true
+			}
+		],
+		"marks": [
+			{
+				"semester": 1,
+				"subjectCode": "ENGLISH101",
+				"marksObtained": 78
+			},
+			{
+				"semester": 1,
+				"subjectCode": "HISTORY101",
+				"marksObtained": 85
+			},
+			{
+				"semester": 2,
+				"subjectCode": "PHYSICS202",
+				"marksObtained": 90
+			}
+		]
+	}
+]
